@@ -18,5 +18,7 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Run http link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
