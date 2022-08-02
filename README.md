@@ -1,23 +1,23 @@
 # gcp-certified-associate-cloud-engineer
 
-# Account Setup
+## Account Setup
 
-# Basic Services
+## Basic Services
 
-# Basic Services Challenge Lessons
+## Basic Services Challenge Lessons
 
-# Scaling
+## Scaling
 
-# Security
+## Security
 
-# Networking
+## Networking
 
-# GKE: Google Kubernetes Engine
+## GKE: Google Kubernetes Engine
 
-# GAE: Google App Engine
+## GAE: Google App Engine
 
-# Service Breadth
+## Service Breadth
 
-# System of services
+## System of services
 
-# Exam Prep
+## Exam Prep
