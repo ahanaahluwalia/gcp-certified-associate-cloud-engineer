@@ -1,5 +1,11 @@
 # gcp-certified-associate-cloud-engineer
 
+## GCP Context
+### Global
+### Secure
+### Huge Scale
+### For Developers  
+
 ## Account Setup
 
 ## Basic Services
