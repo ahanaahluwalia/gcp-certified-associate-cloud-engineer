@@ -1,15 +1,18 @@
 # gcp-certified-associate-cloud-engineer
 
 ## GCP Context
-> Global
-> Secure
-> Huge Scale
-> For Developers
+
+Global<br>
+Secure<br>
+Huge Scale<br>
+For Developers<br>
 
 ## GCP Products/Services
+
 ### Compute Products
-> Compute engine: VM,Disks,Networks rent by seconds
-> Cloud Fuctions: FAAS an Event-driven serverless function 
+
+Compute engine: VM, Disks, Networks rent by seconds <br>
+Cloud Fuctions: FAAS an Event-driven serverless function
 
 ## Account Setup
 
