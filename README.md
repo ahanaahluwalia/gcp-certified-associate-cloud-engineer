@@ -2,16 +2,20 @@
 
 ## GCP Context
 
-Global<br>
-Secure<br>
-Huge Scale<br>
-For Developers<br>
+Global
+
+Secure
+
+Huge Scale
+
+For Developers
 
 ## GCP Products/Services
 
 ### Compute Products
 
-Compute engine: VM, Disks, Networks rent by seconds <br>
+Compute engine: VM, Disks, Networks rent by seconds
+
 Cloud Fuctions: FAAS an Event-driven serverless function
 
 ## Account Setup
