@@ -1,41 +1,29 @@
 # gcp-certified-associate-cloud-engineer
 
-## GCP Context
+## Table of Contents
 
-Global
+## [GCP Context](DOCS/GCP-context.md)
 
-Secure
+## [GCP Products/Services](DOCS/GCP-products.md)
 
-Huge Scale
+## [Account Setup](DOCS/Account-Setup.md)
 
-For Developers
+## [Basic Services](DOCS/Basic-Services.md)
 
-## GCP Products/Services
+## [Basic Services Challenge Lessons](DOCS/Basic-Services-Challenge-Lessons.md)
 
-### Compute Products
+## [Scaling](DOCS/Scaling.md)
 
-Compute engine: VM, Disks, Networks rent by seconds
+## [Security](DOCS/Security.md)
 
-Cloud Fuctions: FAAS an Event-driven serverless function
+## [Networking](DOCS/Networking.md)
 
-## Account Setup
+## [GKE: Google Kubernetes Engine](DOCS/GKE.md)
 
-## Basic Services
+## [GAE: Google App Engine](DOCS/GAE.md)
 
-## Basic Services Challenge Lessons
+## [Service Breadth](DOCS/Service-Breadth.md)
 
-## Scaling
+## [System of Services](DOCS/System-of-Services.md)
 
-## Security
-
-## Networking
-
-## GKE: Google Kubernetes Engine
-
-## GAE: Google App Engine
-
-## Service Breadth
-
-## System of services
-
-## Exam Prep
+## [Exam Prep](DOCS/Exam-Prep.md)
