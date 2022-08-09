@@ -1,6 +1,6 @@
-# gcp-certified-associate-cloud-engineer 
+# gcp-certified-associate-cloud-engineer
 
-## Table of Contents 
+## Table of Contents
 
 ## [GCP Context](DOCS/GCP-context.md)
 

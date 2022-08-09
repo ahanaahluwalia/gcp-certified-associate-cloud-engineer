@@ -1,4 +1,4 @@
-# GCP Context Pillars 
+# GCP Context Pillars
 
 Global
 
